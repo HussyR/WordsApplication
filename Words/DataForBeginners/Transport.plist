@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>transport</string>
+		<key>translate</key>
+		<string>транспорт</string>
+		<key>example1</key>
+		<string>We use different types of transport daily</string>
+		<key>example2</key>
+		<string>The transport of radioactive waste is not allowed in this area</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>airplane</string>
+		<key>translate</key>
+		<string>самолет</string>
+		<key>example1</key>
+		<string>With the A380, discover the largest airplane of all time</string>
+		<key>example2</key>
+		<string>Easy to reach for those travelling by train or airplane</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>ambulance</string>
+		<key>translate</key>
+		<string>скорая помощь</string>
+		<key>example1</key>
+		<string>The ambulance took the patient to the hospital</string>
+		<key>example2</key>
+		<string>The ambulance is driving very fast</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>bus</string>
+		<key>translate</key>
+		<string>автобус</string>
+		<key>example1</key>
+		<string>He works as a school bus driver</string>
+		<key>example2</key>
+		<string>We had to wait, but the bus eventually arrived</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>car</string>
+		<key>translate</key>
+		<string>машина</string>
+		<key>example1</key>
+		<string>He needs a loan to buy a new car</string>
+		<key>example2</key>
+		<string>Someday, I will buy my own car</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>truck</string>
+		<key>translate</key>
+		<string>Грузовой автомобиль</string>
+		<key>example1</key>
+		<string>I rented a truck to move the furniture to my new house</string>
+		<key>example2</key>
+		<string>The truck is beautiful, yet expensive</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>helicopter</string>
+		<key>translate</key>
+		<string>вертолет</string>
+		<key>example1</key>
+		<string>Our company produces helicopters parts of the highest quality</string>
+		<key>example2</key>
+		<string>Someday, I will buy my own helicopter</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>motorcycle</string>
+		<key>translate</key>
+		<string>мотоцикл</string>
+		<key>example1</key>
+		<string>He drove his motorcycle into the garage and took off his helmet</string>
+		<key>example2</key>
+		<string>They were not riding their motorcycle</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>overpass</string>
+		<key>translate</key>
+		<string>переход</string>
+		<key>example1</key>
+		<string>A private overpass system, which links one block to another at terrace-level</string>
+		<key>example2</key>
+		<string>At the coupling the following values must not be overpass</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>road</string>
+		<key>translate</key>
+		<string>дорога</string>
+		<key>example1</key>
+		<string>I helped an elderly lady cross the road</string>
+		<key>example2</key>
+		<string>A blind man with a stick was crossing the road</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>boat</string>
+		<key>translate</key>
+		<string>лодка</string>
+		<key>example1</key>
+		<string>I tied the boat to the landing stage</string>
+		<key>example2</key>
+		<string>We left our boats by the shore</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>sailboat</string>
+		<key>translate</key>
+		<string>парусник</string>
+		<key>example1</key>
+		<string>The fishing sailboat weighed anchor and sailed to the port.</string>
+		<key>example2</key>
+		<string>The merchant transported his goods on a small sailboat.</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>ship</string>
+		<key>translate</key>
+		<string>корабль</string>
+		<key>example1</key>
+		<string>The ship left the port early in the morning</string>
+		<key>example2</key>
+		<string>The ship is leaving the port</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>submarine</string>
+		<key>translate</key>
+		<string>подводная лодка</string>
+		<key>example1</key>
+		<string>The submarine left the port early in the morning.</string>
+		<key>example2</key>
+		<string>The submarine returned at the 6 o&apos;clock in the evening</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>subway</string>
+		<key>translate</key>
+		<string>тунель</string>
+		<key>example1</key>
+		<string>Public transport, including busses, mini busses and the subway is quite affordable</string>
+		<key>example2</key>
+		<string>Five subway lines converging on the station of Kasumigaseki</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>tractor</string>
+		<key>translate</key>
+		<string>трактор</string>
+		<key>example1</key>
+		<string>The farmer took out a loan to buy a new tractor</string>
+		<key>example2</key>
+		<string>The farmers purchased new tractor ploughs</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>train</string>
+		<key>translate</key>
+		<string>поезд</string>
+		<key>example1</key>
+		<string>The train leaves from platform seven</string>
+		<key>example2</key>
+		<string>When does the train arrive?</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>van</string>
+		<key>translate</key>
+		<string>фургон</string>
+		<key>example1</key>
+		<string>He uses a van to deliver his products</string>
+		<key>example2</key>
+		<string>My van is the biggest transport in this company</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>scooter</string>
+		<key>translate</key>
+		<string>скутер</string>
+		<key>example1</key>
+		<string>Two years ago, my father gave me a scooter as a present</string>
+		<key>example2</key>
+		<string>We rented scooters to go for a tour around the town</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+</array>
+</plist>

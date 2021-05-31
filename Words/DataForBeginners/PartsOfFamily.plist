@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>ex-husband</string>
+		<key>translate</key>
+		<string>бывшый муж</string>
+		<key>example1</key>
+		<string>Her ex-husband, Mansur Maqsudi, identified her as a part-owner</string>
+		<key>example2</key>
+		<string>My ex-husband was such a boring person</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>ex-wife</string>
+		<key>translate</key>
+		<string>бывшая жена</string>
+		<key>example1</key>
+		<string>However, this proposal was rejected by his ex-wife</string>
+		<key>example2</key>
+		<string>His ex-wife has always refused to participate in any proceedings regarding the divorce and custody conducted in Spain</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>twin</string>
+		<key>translate</key>
+		<string>близнец</string>
+		<key>example1</key>
+		<string>My younger brothers are twins</string>
+		<key>example2</key>
+		<string>I saw a twin to a famous actor in the street</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>nephew</string>
+		<key>translate</key>
+		<string>племянник</string>
+		<key>example1</key>
+		<string>My nephew is a very clever and talented boy</string>
+		<key>example2</key>
+		<string>I always feel happy near my nephew</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>niece</string>
+		<key>translate</key>
+		<string>племянница</string>
+		<key>example1</key>
+		<string>My elder brother&apos;s daughter is my most beloved niece</string>
+		<key>example2</key>
+		<string>She&apos;s trying to inspire her niece</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>uncle</string>
+		<key>translate</key>
+		<string>дядя</string>
+		<key>example1</key>
+		<string>He inherited a fortune from his uncle</string>
+		<key>example2</key>
+		<string>My uncle is a sociable man who is welcome at any party</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>aunt</string>
+		<key>translate</key>
+		<string>тётя</string>
+		<key>example1</key>
+		<string>I&apos;m going to visit my aunt this summer</string>
+		<key>example2</key>
+		<string>She was a vary happy aunt</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>cousin</string>
+		<key>translate</key>
+		<string>кузен</string>
+		<key>example1</key>
+		<string>My uncle and my cousins came to see me yesterday</string>
+		<key>example2</key>
+		<string>My aunt&apos;s son is my cousin</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>grandpa</string>
+		<key>translate</key>
+		<string>дедушка</string>
+		<key>example1</key>
+		<string>My grandfather was a good and generous man</string>
+		<key>example2</key>
+		<string>Grandfather knows many funny stories</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>grandma</string>
+		<key>translate</key>
+		<string>бабушка</string>
+		<key>example1</key>
+		<string>My grandma knitted me a scarf</string>
+		<key>example2</key>
+		<string>This path leads to my grandma&apos;s house</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>child</string>
+		<key>translate</key>
+		<string>ребенок</string>
+		<key>example1</key>
+		<string>The child is playing in the garden with his friends</string>
+		<key>example2</key>
+		<string>The child dug a deep hole in the sand</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>parents</string>
+		<key>translate</key>
+		<string>родители</string>
+		<key>example1</key>
+		<string>The parents gave an unusual name to their daughter</string>
+		<key>example2</key>
+		<string>My parents have just embarked on a cruise</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>wife</string>
+		<key>translate</key>
+		<string>жена</string>
+		<key>example1</key>
+		<string>The president arrived with his wife and children</string>
+		<key>example2</key>
+		<string>She did not believe that a wife must be obedient to her husband</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>husband</string>
+		<key>translate</key>
+		<string>муж</string>
+		<key>example1</key>
+		<string>My husband knows that he can trust me</string>
+		<key>example2</key>
+		<string>She did not believe that a wife must be obedient to her husband</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>daughter</string>
+		<key>translate</key>
+		<string>дочь</string>
+		<key>example1</key>
+		<string>My friend has two sons and two daughters</string>
+		<key>example2</key>
+		<string>My daughter loves blowing soap bubbles</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>son</string>
+		<key>translate</key>
+		<string>сын</string>
+		<key>example1</key>
+		<string>My son&apos;s room is a complete mess</string>
+		<key>example2</key>
+		<string>My son is almost six years old</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>sister</string>
+		<key>translate</key>
+		<string>сестра</string>
+		<key>example1</key>
+		<string>I have a brother and also a sister</string>
+		<key>example2</key>
+		<string>My sister saw me from the balcony</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>brother</string>
+		<key>translate</key>
+		<string>брат</string>
+		<key>example1</key>
+		<string>I have a brother and also a sister</string>
+		<key>example2</key>
+		<string>My brother sold his old car for scrap</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>mother</string>
+		<key>translate</key>
+		<string>мать</string>
+		<key>example1</key>
+		<string>The mother held her toddler&apos;s hand</string>
+		<key>example2</key>
+		<string>I bought a gift for my mother</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>father</string>
+		<key>translate</key>
+		<string>отец</string>
+		<key>example1</key>
+		<string>Her father was an eminent figure in science</string>
+		<key>example2</key>
+		<string>My father has a very busy schedule</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>family</string>
+		<key>translate</key>
+		<string>семья</string>
+		<key>example1</key>
+		<string>The whole family spent an awesome weekend in the mountains</string>
+		<key>example2</key>
+		<string>For many years, my friend has been working as a family doctor</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>give away</string>
+		<key>translate</key>
+		<string>дарить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>give back</string>
+		<key>translate</key>
+		<string>отдавать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>give forth</string>
+		<key>translate</key>
+		<string>издавать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>give in</string>
+		<key>translate</key>
+		<string>поддаться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>give off</string>
+		<key>translate</key>
+		<string>испускать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>give out</string>
+		<key>translate</key>
+		<string>заканчиваться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>give over</string>
+		<key>translate</key>
+		<string>передавать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>give up</string>
+		<key>translate</key>
+		<string>бросать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+</array>
+</plist>

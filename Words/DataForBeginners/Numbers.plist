@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>thirteen</string>
+		<key>translate</key>
+		<string>тринадцать</string>
+		<key>example1</key>
+		<string>Only thirteen turned up</string>
+		<key>example2</key>
+		<string>The thirteen runners remaining</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>billion</string>
+		<key>translate</key>
+		<string>миллиард</string>
+		<key>example1</key>
+		<string>It was an impressive display by the local eleven</string>
+		<key>example2</key>
+		<string>Experts estimate the value of this painting at one billion dollars</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>billion</string>
+		<key>translate</key>
+		<string>миллиард</string>
+		<key>example1</key>
+		<string>It was an impressive display by the local eleven</string>
+		<key>example2</key>
+		<string>Experts estimate the value of this painting at one billion dollars</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>million</string>
+		<key>translate</key>
+		<string>миллион</string>
+		<key>example1</key>
+		<string>Experts estimate the value of this painting at one million dollars</string>
+		<key>example2</key>
+		<string>The volume of coal import increased by 20 million tons</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>thousand</string>
+		<key>translate</key>
+		<string>тысяча</string>
+		<key>example1</key>
+		<string>Thousands of tourists have visited our city this year</string>
+		<key>example2</key>
+		<string>I have imagined it a thousand times</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>hundred</string>
+		<key>translate</key>
+		<string>сотня</string>
+		<key>example1</key>
+		<string>There were a hundred women</string>
+		<key>example2</key>
+		<string>At the beginning of chapter hundred</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>twenty</string>
+		<key>translate</key>
+		<string>двадцать</string>
+		<key>example1</key>
+		<string>The company has twenty employees on the payroll</string>
+		<key>example2</key>
+		<string>She has four pens and three books</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>twelve</string>
+		<key>translate</key>
+		<string>двенадцать</string>
+		<key>example1</key>
+		<string>The new board will comprise twelve members, including four worker directors</string>
+		<key>example2</key>
+		<string>A small blond girl of about twelve</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>eleven</string>
+		<key>translate</key>
+		<string>одиннадцать</string>
+		<key>example1</key>
+		<string>It was an impressive display by the local eleven</string>
+		<key>example2</key>
+		<string>From the age of eleven you were responsible for his upbringing</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>ten</string>
+		<key>translate</key>
+		<string>десять</string>
+		<key>example1</key>
+		<string>Remove the meat and allow to cool for five to ten minutes</string>
+		<key>example2</key>
+		<string>They had to work until ten o&apos;clock at night</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>nine</string>
+		<key>translate</key>
+		<string>девять</string>
+		<key>example1</key>
+		<string>Children under the age of nine</string>
+		<key>example2</key>
+		<string>The team scored nine out of ten possible points</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>eight</string>
+		<key>translate</key>
+		<string>восемь</string>
+		<key>example1</key>
+		<string>The former president of the country was in power for eight years</string>
+		<key>example2</key>
+		<string>I usually cut pizza into eight equal slices</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>seven</string>
+		<key>translate</key>
+		<string>семь</string>
+		<key>example1</key>
+		<string>My dream is to visit all seven wonders of the world</string>
+		<key>example2</key>
+		<string>The train leaves from platform seven</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>six</string>
+		<key>translate</key>
+		<string>шесть</string>
+		<key>example1</key>
+		<string>My French has greatly improved over the past six months</string>
+		<key>example2</key>
+		<string>My son is almost six years old</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>five</string>
+		<key>translate</key>
+		<string>пять</string>
+		<key>example1</key>
+		<string>There are five members of the crew on board</string>
+		<key>example2</key>
+		<string>My son and daughter are aged three and five respectively</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>four</string>
+		<key>translate</key>
+		<string>четыре</string>
+		<key>example1</key>
+		<string>A car has four wheels</string>
+		<key>example2</key>
+		<string>A square has four equal angles</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>three</string>
+		<key>translate</key>
+		<string>три</string>
+		<key>example1</key>
+		<string>We need three copies</string>
+		<key>example2</key>
+		<string>The essay is divided into three paragraphs</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>two</string>
+		<key>translate</key>
+		<string>два</string>
+		<key>example1</key>
+		<string>The dress has two side pockets</string>
+		<key>example2</key>
+		<string>I will be away for two whole days</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>one</string>
+		<key>translate</key>
+		<string>один</string>
+		<key>example1</key>
+		<string>This little girl is one year old</string>
+		<key>example2</key>
+		<string>The diameter of the pipe is one inch</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>zero</string>
+		<key>translate</key>
+		<string>ноль</string>
+		<key>example1</key>
+		<string>Zero is neither a positive nor a negative number</string>
+		<key>example2</key>
+		<string>Her husband is an absolute zero</string>
+		<key>pOfSpeeach</key>
+		<string>count</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,18 @@
+
+/* Class = "UITabBarItem"; title = "Учебник"; ObjectID = "CFe-km-CJW"; */
+"CFe-km-CJW.title" = "Учебник";
+
+/* Class = "UITabBarItem"; title = "Статистика"; ObjectID = "GUK-Gf-QGj"; */
+"GUK-Gf-QGj.title" = "Статистика";
+
+/* Class = "UINavigationItem"; title = "Профиль"; ObjectID = "IJZ-sk-M1e"; */
+"IJZ-sk-M1e.title" = "Профиль";
+
+/* Class = "UITabBarItem"; title = "Главная"; ObjectID = "ZJS-fT-Kx6"; */
+"ZJS-fT-Kx6.title" = "Главная";
+
+/* Class = "UINavigationItem"; title = "Главная"; ObjectID = "i2h-6Y-SWY"; */
+"i2h-6Y-SWY.title" = "Главная";
+
+/* Class = "UINavigationItem"; title = "Учебник"; ObjectID = "vTS-Yf-Joh"; */
+"vTS-Yf-Joh.title" = "Учебник";

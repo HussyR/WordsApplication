@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>back away</string>
+		<key>translate</key>
+		<string>отступать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>be back</string>
+		<key>translate</key>
+		<string>возвращаться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>be off</string>
+		<key>translate</key>
+		<string>покидать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>be out</string>
+		<key>translate</key>
+		<string>отсутствовать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>be over</string>
+		<key>translate</key>
+		<string>окончить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>blow out</string>
+		<key>translate</key>
+		<string>разбиться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>blow up</string>
+		<key>translate</key>
+		<string>взрываться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>break down</string>
+		<key>translate</key>
+		<string>сломаться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>break up</string>
+		<key>translate</key>
+		<string>разрывать отношения</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>call back</string>
+		<key>translate</key>
+		<string>перезвонить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>call off</string>
+		<key>translate</key>
+		<string>отозвать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>calm down</string>
+		<key>translate</key>
+		<string>успокоиться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>carry around</string>
+		<key>translate</key>
+		<string>носить с собой</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>carry on</string>
+		<key>translate</key>
+		<string>продолжаться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>carry out</string>
+		<key>translate</key>
+		<string>осуществлять</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>carry over</string>
+		<key>translate</key>
+		<string>переносить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>check in</string>
+		<key>translate</key>
+		<string>регистрироваться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>clean up</string>
+		<key>translate</key>
+		<string>прибираться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>come across</string>
+		<key>translate</key>
+		<string>натолкнуться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>come along</string>
+		<key>translate</key>
+		<string>идти вместе</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>come from</string>
+		<key>translate</key>
+		<string>происходить из</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>come in</string>
+		<key>translate</key>
+		<string>войдите</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>come off</string>
+		<key>translate</key>
+		<string>отрываться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>come on</string>
+		<key>translate</key>
+		<string>давай</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>come over</string>
+		<key>translate</key>
+		<string>приходить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>count on</string>
+		<key>translate</key>
+		<string>рассчитывать на</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>cut off</string>
+		<key>translate</key>
+		<string>отрезать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>end up</string>
+		<key>translate</key>
+		<string>закончить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>figure out</string>
+		<key>translate</key>
+		<string>выяснить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>find out</string>
+		<key>translate</key>
+		<string>обнаружить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>grow up</string>
+		<key>translate</key>
+		<string>вырастить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>hang up</string>
+		<key>translate</key>
+		<string>вешать трубку</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>hold out</string>
+		<key>translate</key>
+		<string>протягивать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>hold up</string>
+		<key>translate</key>
+		<string>поднимать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>keep up</string>
+		<key>translate</key>
+		<string>поддерживать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>let in</string>
+		<key>translate</key>
+		<string>впустить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>let out</string>
+		<key>translate</key>
+		<string>выпустить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>lie down</string>
+		<key>translate</key>
+		<string>лечь</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>move in</string>
+		<key>translate</key>
+		<string>въехать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>move on</string>
+		<key>translate</key>
+		<string>идти дальше</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pick up</string>
+		<key>translate</key>
+		<string>взять</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>point out</string>
+		<key>translate</key>
+		<string>указывать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pull on</string>
+		<key>translate</key>
+		<string>натягивать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pull up</string>
+		<key>translate</key>
+		<string>останавливать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pull away</string>
+		<key>translate</key>
+		<string>отказаться от мысли</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>put down</string>
+		<key>translate</key>
+		<string>опустить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>put on</string>
+		<key>translate</key>
+		<string>надеть</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>run away</string>
+		<key>translate</key>
+		<string>убегать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>run into</string>
+		<key>translate</key>
+		<string>столкнуться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>run off</string>
+		<key>translate</key>
+		<string>сбегать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>set down</string>
+		<key>translate</key>
+		<string>высаживать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>settle down</string>
+		<key>translate</key>
+		<string>поселяться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>show up</string>
+		<key>translate</key>
+		<string>появляться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>shut down</string>
+		<key>translate</key>
+		<string>закрыть</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>shut up</string>
+		<key>translate</key>
+		<string>замолчи</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>sit down</string>
+		<key>translate</key>
+		<string>сесть</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>sit up</string>
+		<key>translate</key>
+		<string>приподняться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>spread out</string>
+		<key>translate</key>
+		<string>рассыпаться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>stand by</string>
+		<key>translate</key>
+		<string>быть наготове</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>switch on</string>
+		<key>translate</key>
+		<string>включить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take away</string>
+		<key>translate</key>
+		<string>забирать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take back</string>
+		<key>translate</key>
+		<string>взять обратно</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take on</string>
+		<key>translate</key>
+		<string>приобретать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+</array>
+</plist>

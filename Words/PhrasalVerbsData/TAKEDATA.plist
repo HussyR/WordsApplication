@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>take after</string>
+		<key>translate</key>
+		<string>походить на кого-то</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take along</string>
+		<key>translate</key>
+		<string>брать с собой</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take apart</string>
+		<key>translate</key>
+		<string>разбирать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take aside</string>
+		<key>translate</key>
+		<string>отозвать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take away</string>
+		<key>translate</key>
+		<string>убирать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take back</string>
+		<key>translate</key>
+		<string>вернуться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take down</string>
+		<key>translate</key>
+		<string>снимать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take in</string>
+		<key>translate</key>
+		<string>вносить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take off</string>
+		<key>translate</key>
+		<string>уволить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take on</string>
+		<key>translate</key>
+		<string>брать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take out</string>
+		<key>translate</key>
+		<string>вынимать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take over</string>
+		<key>translate</key>
+		<string>брать ответственность</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take through</string>
+		<key>translate</key>
+		<string>осуществлять</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take to</string>
+		<key>translate</key>
+		<string>привязаться к</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>take up</string>
+		<key>translate</key>
+		<string>поднимать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+</array>
+</plist>

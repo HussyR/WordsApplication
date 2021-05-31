@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>make into</string>
+		<key>translate</key>
+		<string>превратить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>make of</string>
+		<key>translate</key>
+		<string>думать о чем-то</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>make off</string>
+		<key>translate</key>
+		<string>убегать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>make out</string>
+		<key>translate</key>
+		<string>разглядеть</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>make over</string>
+		<key>translate</key>
+		<string>изменить</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>make towards</string>
+		<key>translate</key>
+		<string>направиться к</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>make up</string>
+		<key>translate</key>
+		<string>придумывать</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>make it</string>
+		<key>translate</key>
+		<string>помириться</string>
+		<key>example1</key>
+		<string></string>
+		<key>example2</key>
+		<string></string>
+		<key>pOfSpeeach</key>
+		<string>verb</string>
+	</dict>
+</array>
+</plist>

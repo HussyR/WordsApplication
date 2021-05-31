@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>rabbit</string>
+		<key>translate</key>
+		<string>кролик</string>
+		<key>example1</key>
+		<string>The rabbit hopped across the grass</string>
+		<key>example2</key>
+		<string>She stroked the rabbit&apos;s soft fur</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>piglet</string>
+		<key>translate</key>
+		<string>поросенок</string>
+		<key>example1</key>
+		<string>Here we have prepared a baked piglet</string>
+		<key>example2</key>
+		<string>They had a lot of piglets</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pig</string>
+		<key>translate</key>
+		<string>свинья</string>
+		<key>example1</key>
+		<string>The pigs were eating out of a trough</string>
+		<key>example2</key>
+		<string>n February 2006 we began operations at a new pig farm</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>horse</string>
+		<key>translate</key>
+		<string>лошадь</string>
+		<key>example1</key>
+		<string>My slow movements calmed the horse.</string>
+		<key>example2</key>
+		<string>The old horse is lame and cannot leave the stable.</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>calf</string>
+		<key>translate</key>
+		<string>телёнок</string>
+		<key>example1</key>
+		<string>My cow gave birth to a very pretty calf</string>
+		<key>example2</key>
+		<string>People dance around the golden calf even today</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>cow</string>
+		<key>translate</key>
+		<string>корова</string>
+		<key>example1</key>
+		<string>A farm often has cows and chickens.</string>
+		<key>example2</key>
+		<string>Cows sometimes eat straw</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>bull</string>
+		<key>translate</key>
+		<string>бык</string>
+		<key>example1</key>
+		<string>Bulls are very dangerous animals</string>
+		<key>example2</key>
+		<string>A bull killed the woman last year</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>lamb</string>
+		<key>translate</key>
+		<string>ягненок</string>
+		<key>example1</key>
+		<string>I like lamb most of all types of meat</string>
+		<key>example2</key>
+		<string>Boiled lamb fillet with daikon radish</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>sheep</string>
+		<key>translate</key>
+		<string>овца</string>
+		<key>example1</key>
+		<string>We raise sheep to sell wool</string>
+		<key>example2</key>
+		<string>The farmer had two sheep and a goat</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>goat</string>
+		<key>translate</key>
+		<string>козёл</string>
+		<key>example1</key>
+		<string>The farmer had two sheep and a goat</string>
+		<key>example2</key>
+		<string>The goats are eating grass</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>turkey</string>
+		<key>translate</key>
+		<string>индюк</string>
+		<key>example1</key>
+		<string>Roasted turkey is a popular holiday meal</string>
+		<key>example2</key>
+		<string>A turkey&apos;s meat is a very delicious desert</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>rooster</string>
+		<key>translate</key>
+		<string>петух</string>
+		<key>example1</key>
+		<string>The rooster came out of the henhouse and crowed</string>
+		<key>example2</key>
+		<string>The rooster hit me in my leg </string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>chicken</string>
+		<key>translate</key>
+		<string>курица</string>
+		<key>example1</key>
+		<string>We cooked a chicken with tomatoes</string>
+		<key>example2</key>
+		<string>It stopped raining, and the chicks came out of the hen house</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>farm</string>
+		<key>translate</key>
+		<string>ферма</string>
+		<key>example1</key>
+		<string>A farm often has cows and chickens</string>
+		<key>example2</key>
+		<string>My farm is very famous</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>guinea pig</string>
+		<key>translate</key>
+		<string>морская свинка</string>
+		<key>example1</key>
+		<string>I suggested my parents buying a guinea pig to me</string>
+		<key>example2</key>
+		<string>The hamsters are more dangerous then guinea pigs</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>hamster</string>
+		<key>translate</key>
+		<string>хомяк</string>
+		<key>example1</key>
+		<string>WIld hamsters are very agressive</string>
+		<key>example2</key>
+		<string>I keep a dog and couple of humsters</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>puppy</string>
+		<key>translate</key>
+		<string>щенок</string>
+		<key>example1</key>
+		<string>When I was nine, my parents bought me a puppy</string>
+		<key>example2</key>
+		<string>My puppy learned some tricks</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>dog</string>
+		<key>translate</key>
+		<string>собака</string>
+		<key>example1</key>
+		<string>I walk my dog every day</string>
+		<key>example2</key>
+		<string>My dog is not scared of loud noises</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>kitten</string>
+		<key>translate</key>
+		<string>котенок</string>
+		<key>example1</key>
+		<string>The kitten is very cute</string>
+		<key>example2</key>
+		<string>My kitten walked over the wet cement and left an imprint</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>cat</string>
+		<key>translate</key>
+		<string>кошка</string>
+		<key>example1</key>
+		<string>If I decide to have a pet, it will be a cat</string>
+		<key>example2</key>
+		<string>I like watching my cats play in the grass</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pet</string>
+		<key>translate</key>
+		<string>питомцы</string>
+		<key>example1</key>
+		<string>Our daughter wanted to get a pet, so we bought a puppy</string>
+		<key>example2</key>
+		<string>My first pet was a cat</string>
+		<key>pOfSpeeach</key>
+		<string>noun</string>
+	</dict>
+</array>
+</plist>
